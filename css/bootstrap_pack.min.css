@@ -23,20 +23,17 @@ body {
 }
 
 .banner {
-
-	/* width: 100%; */
-	background: #EAF3F5;
+    background: #EAF3F5;
+    /* background: #a3deff; */
 	margin-top: 10px;
 	margin-bottom: 10px;
-    padding: 15px;
-
-
+    padding: 10px;
 }
 
 .banner-text {
 	font-size: 14px;
-	padding: 0 15px;
-	
+    padding:  0 15px 0 15px;
+    padding-right: 10px;	
 }
 
 .card-medium-price {
